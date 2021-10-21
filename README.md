@@ -1,7 +1,5 @@
 # Python for Data Science
-This is my practice notebooks to the programming assignments of Python for Data Science (edX).
-
-## Programming Assignments
+This is my practice notebooks of Python for Data Science course by edX.
 
 ### Week 1: Introduction to Data Science in Python - Soccer Data Analysis
   - Process of analyzing a dataset
